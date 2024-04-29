@@ -2,7 +2,5 @@ Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le 
 
 ## Compétences Techniques
 Voici une liste des technologies que je maîtrise :
-- **Frameworks Web** : ![Angular](https://angular.io/assets/images/logos/angular/angular.png), React
-- **Frameworks Mobile** : React Native, Ionic
-- **Back End** : Node js, Node js
-- **Logiciels de Développement** : Windev, Windev Mobile
+<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+
