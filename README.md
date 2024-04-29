@@ -1,7 +1,7 @@
-Salut Je suis David BILONGO, développeur Full Stack avec de l'expérience dans le développement web, mobile, et de bureau. Je suis passionné par la création de solutions logicielles innovantes et fiables.
+Hello 👋, I am David BILONGO, a Full Stack developer with experience in web, mobile, and desktop development. I'm passionate about creating innovative and reliable software solutions.
 
-## Compétences Techniques
-Voici une liste des technologies que je maîtrise :
+## Technical Skills
+Here's a list of the technologies I am proficient in:
 <div>
   <figure>
     <figcaption>Angular</figcaption>
@@ -42,11 +42,7 @@ Voici une liste des technologies que je maîtrise :
   
  </figure>
 
-  <figure>
-    <figcaption>Windev mobile</figcaption>
- <img src="https://asset.brandfetch.io/idD-m4ly_-/idG6kmmWN2.png" alt="NestJS" width="50" height="50">
-  
- </figure>
+
      
     
      
