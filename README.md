@@ -4,8 +4,8 @@ Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le 
 Voici une liste des technologies que je maîtrise :
 <div>
   <figure>
+    <figcaption>Angular</figcaption>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
-  <div> <figcaption>Angular</figcaption></div>
  </figure>
    <figure>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
