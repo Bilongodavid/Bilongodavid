@@ -8,27 +8,32 @@ Voici une liste des technologies que je maîtrise :
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
  </figure>
    <figure>
+       <figcaption>React</figcaption>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
-   <figcaption>React</figcaption>
+ 
  </figure>
    <figure>
+     <figcaption>React Native</figcaption>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
-   <figcaption>React Native</figcaption>
+   
  </figure>
  <figure>
+    <figcaption>Ionic</figcaption>
   <img src="https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-5z7cejbj.png" alt="Ionic" width="50" height="50">
-   <figcaption>Ionic</figcaption>
+  
  </figure>
 
  
  <figure>
+    <figcaption>Node js</figcaption>
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50">
-   <figcaption>Node js</figcaption>
+  
  </figure>
  
  <figure>
+    <figcaption>Nest js</figcaption>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
-   <figcaption>Nest js</figcaption>
+  
  </figure>
      
     
