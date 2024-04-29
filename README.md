@@ -1,4 +1,4 @@
-Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le développement web, mobile, et de bureau. Je suis passionné par la création de solutions logicielles innovantes et fiables.
+Salut Je suis David BILONGO, développeur Full Stack avec de l'expérience dans le développement web, mobile, et de bureau. Je suis passionné par la création de solutions logicielles innovantes et fiables.
 
 ## Compétences Techniques
 Voici une liste des technologies que je maîtrise :
@@ -32,6 +32,18 @@ Voici une liste des technologies que je maîtrise :
  
  <figure>
     <figcaption>Nest js</figcaption>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
+  
+ </figure>
+
+  <figure>
+    <figcaption>Windev</figcaption>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
+  
+ </figure>
+
+  <figure>
+    <figcaption>Windev mobile</figcaption>
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
   
  </figure>
