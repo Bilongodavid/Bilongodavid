@@ -9,6 +9,6 @@ Voici une liste des technologies que je maîtrise :
    <img src="https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-5z7cejbj.png" alt="Ionic" width="50" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Nest js" width="50" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="Angular" width="50" height="50">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logo_PC_SOFT.svg/2560px-Logo_PC_SOFT.svg.png" alt="Angular" width="50" height="50">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimfPIGwmXW7dDWiiSyygF90aFfHoYKMFV9MkjRml6&s" alt="Angular" width="50" height="50">
 </div>
 
