@@ -3,10 +3,10 @@ Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le 
 ## Compétences Techniques
 Voici une liste des technologies que je maîtrise :
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
+ 
     <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
     <p>Angular</p>
-  </div>
+
   <div style="text-align: center; margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
     <p>React</p>
