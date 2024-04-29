@@ -7,8 +7,7 @@ Voici une liste des technologies que je maîtrise :
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React js" width="50" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React js" width="50" height="50">
    <img src="https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-5z7cejbj.png" alt="Ionic" width="50" height="50">
-   <img src="[https://angular.io/assets/images/logos/angular/angular.png](https://static-00.iconduck.com/assets.00/flutter-icon-512x512-k9y8x41t.png)" alt="Angular" width="50" height="50">
-   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+   <img src="[https://angular.io/assets/images/logos/angular/angular.png](https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png)" alt="Nest js" width="50" height="50">
    <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
 </div>
 
