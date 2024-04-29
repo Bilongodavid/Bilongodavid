@@ -6,7 +6,7 @@ Voici une liste des technologies que je maîtrise :
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React js" width="50" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/React_Native_logo.svg" alt="React Native" width="50" height="50">
-   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" alt="Angular" width="50" height="50">
    <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
 </div>
 
