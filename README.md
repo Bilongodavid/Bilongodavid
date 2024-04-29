@@ -11,7 +11,10 @@ Voici une liste des technologies que je maîtrise :
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
    <figcaption>React</figcaption>
  </figure>
-
+   <figure>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
+   <figcaption>React Native</figcaption>
+ </figure>
  <figure>
   <img src="https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-5z7cejbj.png" alt="Ionic" width="50" height="50">
    <figcaption>Ionic</figcaption>
