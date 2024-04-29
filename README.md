@@ -2,5 +2,7 @@ Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le 
 
 ## Compétences Techniques
 Voici une liste des technologies que je maîtrise :
-<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+<div>
+  <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+</div>
 
