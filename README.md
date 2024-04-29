@@ -3,7 +3,7 @@ Je suis David BILONGO, un développeur Full Stack avec de l'expérience dans le 
 ## Compétences Techniques
 Voici une liste des technologies que je maîtrise :
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: center; flex-direction: column; align-items: center;">
+  <div style="text-align: center; flex-direction: row; align-items: center;">
     <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
     <p>Angular</p>
   </div>
