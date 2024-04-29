@@ -38,13 +38,13 @@ Voici une liste des technologies que je maîtrise :
 
   <figure>
     <figcaption>Windev</figcaption>
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
+ <img src="https://asset.brandfetch.io/idD-m4ly_-/idG6kmmWN2.png" alt="NestJS" width="50" height="50">
   
  </figure>
 
   <figure>
     <figcaption>Windev mobile</figcaption>
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50">
+ <img src="https://asset.brandfetch.io/idD-m4ly_-/idG6kmmWN2.png" alt="NestJS" width="50" height="50">
   
  </figure>
      
