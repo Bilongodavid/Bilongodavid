@@ -46,12 +46,6 @@ Here's a list of the technologies I am proficient in:
  <img src="https://asset.brandfetch.io/idD-m4ly_-/idG6kmmWN2.png" alt="NestJS" width="50" height="50">
   
  </figure>
-
-
-     
-    
-     
-    
-</div[>
+</div>
 ![GHstats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
