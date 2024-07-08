@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="Bilongodavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=discord" alt="Bilongodavid" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=onedark&no-frame=true&no-bg=true&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
@@ -35,5 +36,5 @@
 <h3>GitHub Readme Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight" alt="Bilongodavid" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
