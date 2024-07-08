@@ -33,4 +33,4 @@
 </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilongodavid&show_icons=true&locale=en&theme=dark" alt="bilongodavid" /></p>
 <h3>GitHub Readme Streak Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilongodavid&" alt="bilongodavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilongodavid&theme=dark" alt="bilongodavid" /></p>
