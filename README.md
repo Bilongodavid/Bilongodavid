@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David BILONGO</h1>
 <h3 align="center">A Full Stack developer with experience in web, mobile, and desktop development. I'm passionate about creating innovative and reliable software solutions.sionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilongodavid&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="bilongodavid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="bilongodavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilongodavid&theme=dark" alt="bilongodavid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilongodavid&theme=discord" alt="bilongodavid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
