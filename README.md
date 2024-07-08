@@ -48,8 +48,6 @@ Here's a list of the technologies I am proficient in:
  </figure>
 </div>
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-
-![GHstats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Bilongodavid&show_icons=true&theme=radical)
 
