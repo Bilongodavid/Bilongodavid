@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilongodavid&show_icons=true&locale=en&theme=tokyonight" alt="bilongodavid" /></p>
 <h3>GitHub Readme Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight" alt="Bilongodavid" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
