@@ -19,6 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interceptors en NestJS](https://dev.to/bilongodavid/interceptors-en-nestjs-1jgb)
+- [Nest JS Guard](https://dev.to/bilongodavid/nest-js-guard-1jf7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
