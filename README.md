@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="bilongodavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MikeCodeur&theme=discord" alt="bilongodavid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=discord" alt="bilongodavid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
