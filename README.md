@@ -50,3 +50,6 @@ Here's a list of the technologies I am proficient in:
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
