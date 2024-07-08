@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David BILONGO</h1>
 <h3 align="center">A Full Stack developer with experience in web, mobile, and desktop development. I'm passionate about creating innovative and reliable software solutions.sionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="bilongodavid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="Bilongodavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=discord" alt="bilongodavid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=discord" alt="Bilongodavid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bilongodavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bilongodavid" height="30" width="40" /></a>
+<a href="https://dev.to/Bilongodavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Bilongodavid" height="30" width="40" /></a>
 <a href="https://twitter.com/davidbilongo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidbilongo2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-bilongo-726b35254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-bilongo-726b35254" height="30" width="40" /></a>
 <a href="https://fb.com/david.bilongo.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david.bilongo.31" height="30" width="40" /></a>
@@ -33,4 +33,4 @@
 </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bilongodavid&show_icons=true&locale=en&theme=tokyonight" alt="bilongodavid" /></p>
 <h3>GitHub Readme Streak Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight" alt="bilongodavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight" alt="Bilongodavid" /></p>
