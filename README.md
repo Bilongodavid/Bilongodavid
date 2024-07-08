@@ -5,6 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=onedark&no-frame=true&no-bg=true&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
