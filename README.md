@@ -37,7 +37,8 @@
 ![Bilongo David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilongodavid&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
 
 <h3>GitHub Readme Streak Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight&no-frame=true" alt="Bilongodavid" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bilongodavid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
