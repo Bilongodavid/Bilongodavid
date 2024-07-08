@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilongodavid&label=Profile%20views&color=0e75b6&style=flat" alt="Bilongodavid" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=onedark&no-frame=true&no-bg=true&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilongodavid&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
