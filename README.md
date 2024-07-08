@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilongodavid&theme=discord" alt="bilongodavid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/davidbilongo2?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/davidbilongo2" target="blank"><img src="https://img.shields.io/twitter/follow/MikeCodeur?logo=twitter&style=for-the-badge&theme=dark" alt="davidbilongo2" /></a> </p>
 
 - Coryas [Simoder](https://dev-corporate.simoder.com/)
 
