@@ -19,6 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guard dans Angular](https://dev.to/bilongodavid/guard-dans-angular-1o76)
+- [Intercepteurs dans Angular](https://dev.to/bilongodavid/intercepteurs-dans-angular-4gf0)
 - [Interceptors en NestJS](https://dev.to/bilongodavid/interceptors-en-nestjs-1jgb)
 - [Nest JS Guard](https://dev.to/bilongodavid/nest-js-guard-1jf7)
 <!-- BLOG-POST-LIST:END -->
