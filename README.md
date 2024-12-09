@@ -18,6 +18,9 @@ A Full Stack developer with experience in web, mobile, and desktop development. 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
   <img src="https://nextjs.org/static/favicon/favicon.ico" alt="Next.js" width="40" height="40" />
 </a>
+<a href="https://doc.pcsoft.fr/" target="_blank" rel="noreferrer">
+  <img src="https://pcsoft.fr/img/logo-pcsoft-min.svg" alt="WinDev Logo" width="40" height="40" />
+</a>
 </p>
 
 ## 📚 Latest Blog Posts on [DEV](https://dev.to/bilongodavid)
